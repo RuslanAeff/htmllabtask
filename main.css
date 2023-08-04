@@ -1,0 +1,12 @@
+form{
+    border: 11px
+    color green;
+    border-style: double;
+    
+}
+select{
+    display: block;
+}
+textarea{
+    size: 1000px;
+}
